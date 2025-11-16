@@ -8,8 +8,8 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-### NAME : THIRUMALAI K
-### REG NO : 212224240176
+### NAME : NIJANTH K
+### REG NO : 212224240186
 ### DEPT : AIML
 
 ### server.py
